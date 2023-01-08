@@ -1,0 +1,52 @@
+.titres {
+  margin-top: 210px;
+}
+h1 {
+  text-align: center;
+  margin-top: 300px;
+  text-shadow: 0.2em 0.2em #cccfdd;
+  color: rgb(99, 158, 235);
+  font-family: "Times New Roman", Times, serif;
+}
+#titreaccueil{
+  color: blue;
+}
+h2 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 0.2em 0.2em #cccfdd;
+  margin-top: 10px;
+  color: rgb(99, 158, 235);
+}
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+h4 {
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+.titre3 {
+  margin-left: 60px;
+}
+
+.newsletter {
+  background-color: rgba(80, 158, 241, 0.925);
+}
+.titre-grid{
+  background-color: #4e58df;
+  margin: 0;
+}
+.voir-plus{
+  color: black !important ;
+}
+
+.light {
+  background-color: #ffffff !important;
+  color: #222222; }
+
+.dark {
+  background-color: #222222 !important;
+  color: #DDDDDD;
+}
+

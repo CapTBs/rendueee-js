@@ -1,0 +1,38 @@
+.bloc {
+  display: flex;
+  align-items: flex-end;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container1 {
+  display: flex;
+  width: 100%;
+  height: 300px;
+  margin-top: 150px;
+  justify-content: center;
+}
+.container2 {
+  margin-bottom: 50px;
+}
+#grid {
+  display: grid;
+  width: 100%;
+  height: 40%;
+  grid-template: 50px 1fr;
+  margin-top: 5%;
+  margin-bottom: 9%;
+}
+
+#areaA {
+  background-color: #AABBF1;
+}
+#areaB {
+  background-color: #738ED9;
+}
+#areaC {
+  background-color: #4c7df1;
+}
+#areaD {
+  background-color: #4e58df;
+
+}

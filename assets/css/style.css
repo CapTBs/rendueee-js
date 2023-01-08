@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans:wght@500&display=swap");
+@import url("components/navbar.css");
+@import url("components/footer.css");
+@import url("components/image.css");
+@import url("components/présentation.css");
+@import url("components/div.css");
+@import url("components/buttons.css");
+@import url("components/components.css");
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100vh !important;
+  font-family: "Lobster", cursive !important;
+  /* background-color: white !important; */
+}

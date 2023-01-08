@@ -1,0 +1,15 @@
+.footer {
+  background-color: rgba(80, 158, 241, 0.925);
+  height: 10%;
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center ;
+  align-items: center ;
+  font-family: Arial, Helvetica, sans-serif ;
+  gap: 20px;
+  color: black !important; 
+}
+.footer p{
+  margin-top: 14px;
+}
